@@ -1,8 +1,8 @@
 # Live destination
 
-The selected free subdomain is:
+The branded public free subdomain is:
 
-`https://defurniture2025.github.io/solidee-dining-table-guide/`
+`https://solidee-furniture-guides.netlify.app/`
 
 # SOLIDEÉ external SEO landing page publishing package
 
@@ -32,7 +32,7 @@ Better setup:
 
 ## Important before publishing
 
-1. Replace the placeholder canonical URL `https://defurniture2025.github.io/solidee-dining-table-guide/` in `index.html` with the final live URL on the separate website, not the Solideé main site.
+1. Replace the placeholder canonical URL `https://solidee-furniture-guides.netlify.app/` in `index.html` with the final live URL on the separate website, not the Solideé main site.
 2. Replace the JSON-LD WebPage `url` placeholder with the same final live URL.
 3. Upload all three files to the same folder on the host.
 4. Confirm the page loads and the logo image appears.

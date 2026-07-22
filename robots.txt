@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://defurniture2025.github.io/solidee-dining-table-guide/sitemap.xml
+Sitemap: https://solidee-furniture-guides.netlify.app/sitemap.xml
