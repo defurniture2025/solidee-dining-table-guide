@@ -8,3 +8,9 @@
 
 /solidee-logo.jpg
   Cache-Control: public, max-age=31536000, immutable
+
+/og-soreno-dining-table.jpg
+  Cache-Control: public, max-age=31536000, immutable
+
+/soreno-dining-table-correct.webp
+  Cache-Control: public, max-age=31536000, immutable
