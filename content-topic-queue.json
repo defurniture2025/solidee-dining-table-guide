@@ -1,0 +1,20 @@
+{
+  "queue": [
+    {
+      "scheduled_date": "2026-07-28",
+      "topic": "Café and Restaurant Furniture Buying Guide for Indonesia",
+      "slug": "cafe-restaurant-furniture-buying-guide-indonesia",
+      "search_intent": "Commercial buyers planning seating, table sizes, solid-wood selection, layouts, quantities, durability, and project pricing for cafés and restaurants.",
+      "required_sections": [
+        "Table and chair sizing",
+        "Seat count and layout planning",
+        "Teak and other solid-wood choices",
+        "Durability and maintenance",
+        "Project quantity and lead-time planning",
+        "Project and trade pricing CTA"
+      ],
+      "featured_product_rule": "Choose a verified-current SOLIDEÉ café or dining product. Do not use Soreno imagery and do not reuse Gale unless no other verified-current product exists.",
+      "status": "pending"
+    }
+  ]
+}

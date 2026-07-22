@@ -2,4 +2,5 @@
 .gitignore
 .netlify
 README-publish.md
+content-topic-queue.json
 *.zip
